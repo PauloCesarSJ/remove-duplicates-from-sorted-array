@@ -1,0 +1,15 @@
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\bin\Debug\net8.0\remove-duplicates-from-sorted-array.exe
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\bin\Debug\net8.0\remove-duplicates-from-sorted-array.deps.json
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\bin\Debug\net8.0\remove-duplicates-from-sorted-array.runtimeconfig.json
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\bin\Debug\net8.0\remove-duplicates-from-sorted-array.dll
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\bin\Debug\net8.0\remove-duplicates-from-sorted-array.pdb
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\remove-duplicates-from-sorted-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\remove-duplicates-from-sorted-array.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\remove-duplicates-from-sorted-array.AssemblyInfo.cs
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\remove-duplicates-from-sorted-array.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\remove-duplicates-from-sorted-array.sourcelink.json
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\remove-duplicates-from-sorted-array.dll
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\refint\remove-duplicates-from-sorted-array.dll
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\remove-duplicates-from-sorted-array.pdb
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\remove-duplicates-from-sorted-array.genruntimeconfig.cache
+C:\Users\paulo\Desktop\programação\atividades\2-02-2024\remove-duplicates-from-sorted-array\remove-duplicates-from-sorted-array\obj\Debug\net8.0\ref\remove-duplicates-from-sorted-array.dll
